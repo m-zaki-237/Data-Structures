@@ -2,28 +2,6 @@
 
 Lab work and assignments from my Data Structures course at COMSATS University Islamabad, Attock Campus. Implemented in C++ from scratch — no STL containers.
 
----
-
-## Repository Structure
-
-```
-Data-Structures/
-├── Assignment 01/
-│   └── assignment01.cpp       # ArrayList with pointer arithmetic & statistical analysis
-├── Week 1/
-│   └── Lab 1/
-│       ├── task1.cpp          # Sum of squares over a range
-│       ├── task2.cpp          # ArrayList with full insert/delete menu
-│       └── task3.cpp          # ArrayList with linear search
-└── Week 2/
-    └── Lab 2/
-        ├── task1.cpp          # Singly linked list — forward & reverse traversal
-        ├── task2.cpp          # Merging two singly linked lists
-        └── task3.cpp          # Linked list — occurrence search
-```
-
----
-
 ## Topics Covered
 
 ### Array Lists (Week 1 + Assignment 01)
